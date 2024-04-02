@@ -1,14 +1,10 @@
-# Project 4 - *Quizzy Whiz*
-
-Submitted by: **Pragnavi Ravuluri Sai Durga**
+# Quizzy Whiz - Enhanced Version with RealTime Data
 
 **Quizzy Whiz** is an app that brings the thrill of trivia right to your fingertips! Engage in a brain-tingling journey across various domains including Entertainment, Science, General Knowledge, Mythology and many more. With each tap, uncover questions designed to challenge your knowledge and provoke curiosity. Whether you're a trivia novice or a seasoned quiz master, Quizzy Whiz offers a unique platform to test your wits, and learn interesting facts. Dive into the world of Quizzy Whiz, where every question is an opportunity to learn something new and celebrate the joy of discovery.
 
-Time spent: **8** hours spent in total
+## Features
 
-## Required Features
-
-The following **required** functionality is completed:
+The following features are implemented:
 
 - [x] User can view and answer at least 5 trivia questions.
 - [x] App retrieves question data from the Open Trivia Database API.
@@ -16,16 +12,12 @@ The following **required** functionality is completed:
 - [x] Users can see score after submitting all questions.
 - [x] True or False questions only have two options.
 
+## Getting Started
 
-The following **optional** features are implemented:
-
-  
-- [ ] Allow the user to choose a specific category of questions.
-- [ ] Provide the user feedback on whether each question was correct before navigating to the next.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+To embark on your trivia journey with Quizzy Whiz:
+1. Clone the repository to your local machine.
+2. Open the `Trivia.xcodeproj` file with Xcode.
+3. Compile and run the app on your iOS device or emulator.
 
 ## Video Walkthrough
 
